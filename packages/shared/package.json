@@ -1,0 +1,15 @@
+{
+  "name": "shared",
+  "version": "1.0.0",
+  "main": "lib/index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^4.3.5",
+    "@types/react": "^17.0.15",
+    "react": "^17.0.2"
+  },
+  "scripts": {
+    "build": "tsc --jsx react",
+    "dev": "tsc --jsx -w"
+  }
+}
