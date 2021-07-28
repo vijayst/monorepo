@@ -15,6 +15,6 @@
     ]
   },
   "scripts": {
-    "build": "yarn lerna run build"
+    "build": "lerna run build"
   }
 }
