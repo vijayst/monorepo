@@ -1,7 +1,7 @@
 import React from 'react';
 import logo from './logo.svg';
 import './App.css';
-import { Greeting } from 'shared';
+import { Greeting } from '@vt/shared';
 
 function App() {
   return (

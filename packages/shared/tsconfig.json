@@ -5,7 +5,8 @@
         "target": "esnext",
         "declaration": true,
         "moduleResolution": "node",
-        "allowSyntheticDefaultImports": true
+        "allowSyntheticDefaultImports": true,
+        "jsx": "react"
     },
     "include": ["src"],
     "exclude": ["node_modules", "lib"]

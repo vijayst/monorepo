@@ -1,5 +1,5 @@
 {
-  "name": "shared",
+  "name": "@vt/shared",
   "version": "1.0.0",
   "main": "lib/index.js",
   "license": "MIT",
@@ -9,7 +9,7 @@
     "react": "^17.0.2"
   },
   "scripts": {
-    "build": "tsc --jsx react",
-    "dev": "tsc --jsx -w"
+    "build": "tsc",
+    "dev": "tsc -w"
   }
 }
